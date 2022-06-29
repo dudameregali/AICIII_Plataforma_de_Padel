@@ -25,9 +25,7 @@ SECRET_KEY = 'django-insecure-(lkipq-%&p++b+pwem5l&%amw1mgd6g=f+v(h=e05s(ax%427!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [
-    'https://plataformapadel.herokuapp.com/'
-]
+ALLOWED_HOSTS = ['https://plataformapadel.herokuapp.com/']
 
 
 # Application definition
